@@ -1,0 +1,27 @@
+.layout_item{
+    height: 500px;
+    width: 200px;
+}
+.layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-column-gap: 40px; */
+    
+
+}
+/* .img1{
+    position: absolute;
+    left: 20px;
+     */ */
+
+}
+/* .layout{
+    float: left;
+    margin: 0 ;
+    
+}
+.container{
+        text-align: center;
+        height: 1000px;
+        width: auto;
+} */
